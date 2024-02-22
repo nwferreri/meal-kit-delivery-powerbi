@@ -1,4 +1,4 @@
-# Meal Kit Delivery Service Analysis with Power BI
+# Meal Kit Delivery Service Analysis using Power BI
 
 ## Summary
 In this project, I used Power BI to provide an overall analysis of the performance of a fictional meal kit delivery service.
