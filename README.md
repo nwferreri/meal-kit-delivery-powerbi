@@ -33,3 +33,11 @@ This dashboard gives a high level overveiw of the company's performance, and has
 This dashboard can be reached by drilling through the Summary Dashboard's Revenue by Division chart. It shows additional details focused on the selected division.
 * Users can change the bar chart using the slicer options above it. (This is accomplished using a dynamic measure that harvests the slicer selection.)
 * Revenue by Start of Month - The right side of this chart forecasts revenue 6 months into the future.
+
+### Mobile Dashboards
+In addition to the desktop dashboards, I also created mobile-friendly versions that allow at-a-glance access to the most important visualizations.
+
+<img width="318" alt="mobile1" src="https://github.com/nwferreri/meal-kit-delivery-powerbi/assets/112211174/61d4f8df-43e5-4812-9bdc-a85e65d6b080">
+<img width="311" alt="mobile2" src="https://github.com/nwferreri/meal-kit-delivery-powerbi/assets/112211174/92a54190-b73e-4756-87e6-e0e4afa63ca1"><br>
+<img width="314" alt="mobile3" src="https://github.com/nwferreri/meal-kit-delivery-powerbi/assets/112211174/fe0909a6-fffe-43ee-8a31-22253a124f93">
+<img width="311" alt="mobile4" src="https://github.com/nwferreri/meal-kit-delivery-powerbi/assets/112211174/17d5aab1-8790-4fc6-a98b-fcac6ed0b825">
